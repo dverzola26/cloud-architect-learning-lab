@@ -1,0 +1,22 @@
+# Node.js dependencies
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# Environment / secrets
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+
+#Windows metadata
+*:Zone.Identifier
+
+# OS files
+.DS_Store
+Thumbs.db
