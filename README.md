@@ -44,3 +44,6 @@ Hands-on lab commands are now displayed as guided steps with:
 - separate instruction steps for multi-terminal labs
 
 Future modules should follow the same command-guide format.
+
+## Git Learning Progress
+Module 1.2 is now in progress.
