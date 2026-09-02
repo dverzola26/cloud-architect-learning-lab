@@ -46,4 +46,31 @@ Hands-on lab commands are now displayed as guided steps with:
 Future modules should follow the same command-guide format.
 
 ## Git Learning Progress
-Module 1.2 is now in progress.
+
+### Module 1.2 — Git Basics
+
+Status: Completed
+Score: 92/100 — Architect Ready
+
+Completed skills:
+
+- Staging and committing changes
+- Inspecting staged and unstaged differences
+- Restoring and unstaging files
+- Configuring GitHub SSH authentication
+- Pushing and establishing upstream tracking
+- Explaining local and remote-tracking branches
+- Diagnosing an accidentally nested repository
+
+### Module 1.3 — Branching and Pull Requests
+
+Status: In Progress
+
+Learning objectives:
+
+- Create and rename feature branches
+- Keep changes isolated from `main`
+- Push a feature branch to GitHub
+- Open and review a Pull Request
+- Merge changes safely
+- Synchronize local `main` after the merge
