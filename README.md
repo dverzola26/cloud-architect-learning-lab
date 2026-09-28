@@ -64,9 +64,10 @@ Completed skills:
 
 ### Module 1.3 — Branching and Pull Requests
 
-Status: In Progress
+Status: Completed
+Score: 91/100 — Architect Ready
 
-Learning objectives:
+Completed skills:
 
 - Create and rename feature branches
 - Keep changes isolated from `main`
@@ -74,3 +75,24 @@ Learning objectives:
 - Open and review a Pull Request
 - Merge changes safely
 - Synchronize local `main` after the merge
+
+## Docker Learning Progress
+
+### Module 2.1 — Docker Foundation
+
+Status: In Progress
+
+Completed skills:
+
+- Created a multi-stage production Dockerfile
+- Used `.dockerignore` to reduce the build context
+- Generated a standalone Next.js production build
+- Built and tagged a Docker image
+- Published a container port to the host
+- Tested the application with `curl`
+- Ran the application as a non-root user
+- Inspected image layers and cleaned up the test container
+
+Current image:
+
+`cloud-architect-learning-lab:docker-foundation`
